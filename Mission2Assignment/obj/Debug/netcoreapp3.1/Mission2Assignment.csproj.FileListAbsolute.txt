@@ -1,0 +1,55 @@
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment/Mission2Assignment/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment/Mission2Assignment/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment/Mission2Assignment/bin/Debug/netcoreapp3.1/Mission2Assignment.deps.json
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment/Mission2Assignment/bin/Debug/netcoreapp3.1/Mission2Assignment.runtimeconfig.json
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment/Mission2Assignment/bin/Debug/netcoreapp3.1/Mission2Assignment.runtimeconfig.dev.json
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment/Mission2Assignment/bin/Debug/netcoreapp3.1/Mission2Assignment.dll
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment/Mission2Assignment/bin/Debug/netcoreapp3.1/Mission2Assignment.pdb
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.csproj.AssemblyReference.cache
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.AssemblyInfoInputs.cache
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.AssemblyInfo.cs
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.csproj.CoreCompileInputs.cache
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.MvcApplicationPartsAssemblyInfo.cache
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment/Mission2Assignment/obj/Debug/netcoreapp3.1/staticwebassets/Mission2Assignment.StaticWebAssets.Manifest.cache
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment/Mission2Assignment/obj/Debug/netcoreapp3.1/staticwebassets/Mission2Assignment.StaticWebAssets.xml
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment/Mission2Assignment/obj/Debug/netcoreapp3.1/scopedcss/bundle/Mission2Assignment.styles.css
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.RazorTargetAssemblyInfo.cache
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.dll
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.pdb
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.genruntimeconfig.cache
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/bin/Debug/netcoreapp3.1/Mission2Assignment.deps.json
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/bin/Debug/netcoreapp3.1/Mission2Assignment.runtimeconfig.json
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/bin/Debug/netcoreapp3.1/Mission2Assignment.runtimeconfig.dev.json
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/bin/Debug/netcoreapp3.1/Mission2Assignment.dll
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/bin/Debug/netcoreapp3.1/Mission2Assignment.pdb
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/bin/Debug/netcoreapp3.1/Mission2Assignment.Views.dll
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/bin/Debug/netcoreapp3.1/Mission2Assignment.Views.pdb
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.csproj.AssemblyReference.cache
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.AssemblyInfoInputs.cache
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.AssemblyInfo.cs
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.csproj.CoreCompileInputs.cache
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.MvcApplicationPartsAssemblyInfo.cache
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.RazorAssemblyInfo.cache
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.RazorAssemblyInfo.cs
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/obj/Debug/netcoreapp3.1/staticwebassets/Mission2Assignment.StaticWebAssets.Manifest.cache
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/obj/Debug/netcoreapp3.1/staticwebassets/Mission2Assignment.StaticWebAssets.xml
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/obj/Debug/netcoreapp3.1/scopedcss/bundle/Mission2Assignment.styles.css
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.TagHelpers.input.cache
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.TagHelpers.output.cache
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.RazorCoreGenerate.cache
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/obj/Debug/netcoreapp3.1/Razor/Views/WebPage/Index.cshtml.g.cs
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.RazorTargetAssemblyInfo.cache
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.RazorTargetAssemblyInfo.cs
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.Views.pdb
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.dll
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.pdb
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.genruntimeconfig.cache
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/obj/Debug/netcoreapp3.1/Mission2Assignment.csproj.CopyComplete
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/obj/Debug/netcoreapp3.1/Razor/Views/WebPage/GradeCalculator.cshtml.g.cs
+/Users/sierragriffin/OneDrive - BYU Office 365/IS413/Mission2Assignment copy/Mission2Assignment/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs

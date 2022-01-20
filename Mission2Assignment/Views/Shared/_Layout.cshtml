@@ -1,0 +1,41 @@
+﻿<!--SHARED LAYOUT PAGE FOR ALL VIEWS-->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta charset="utf-8" />
+
+    <!--custom browser tab-->
+    <title>@ViewData["Title"]</title>
+    <link rel="shortcut icon" href="~/img/StarIcon.png" />
+
+    <!--link bootstrap & CSS files-->
+    <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/default.css" />
+
+</head>
+
+<body>
+    <!--navigation bar that implements tag helpers-->
+    <nav>
+        <a asp-controller="WebPage" asp-action="Index">Home</a>
+        <a asp-controller="WebPage" asp-action="GradeCalculator">Grade Calculator</a>
+    </nav>
+
+    <h1>@ViewData["Header"]</h1>
+
+    <!--link jquery files-->
+    <script src="~/lib/jquery/jquery-3.6.0.min.js"></script>
+
+    <div>
+        @RenderBody()
+    </div>
+
+    <!--link bootstrap files-->
+    <script scr="~/lib/bootstrap/js/bootstrap.min.js"></script>
+    
+</body>
+
+</html>

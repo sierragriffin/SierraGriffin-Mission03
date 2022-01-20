@@ -1,0 +1,30 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    <!--Razor Code to set the title and page heading-->
+    ViewData["Title"] = "Grade Calculator -- Mission #3";
+    ViewData["Header"] = "Grade Calculator";
+}
+
+@model GradeCalculatorModel;
+<!--Final grade calculator/form-->
+<p>Please enter the percentage you scored for each grade category below.</p>
+<form method="post">
+    <label>Assignments:</label>
+    <input type="number" id="assignmentPercent" asp-for="Assignments" /><br />
+    <label>Group Project:</label>
+    <input type="number" id="groupProjPercent" asp-for="GroupProject" /><br />
+    <label>Quizzes:</label>
+    <input type="number" id="quizPercent" asp-for="Quizzes" /><br />
+    <label>Exams:</label>
+    <input type="number" id="examPercent" asp-for="Exams" /><br />
+    <label>Intex:</label>
+    <input type="number" id="intexPercent" asp-for="Intex" /><br /><br />
+    <input id="btnSend" type="submit" value="Perform Calculation" />
+
+    <div asp-validation-summary="All"></div>
+</form>
+
+<!--Link javascript file-->
+<script src="~/js/GradeCalculator.js"></script>
